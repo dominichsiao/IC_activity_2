@@ -10,4 +10,4 @@ class TestCalculatorApp:
         assert 2 == calculator.subtract(5, 3)
 
     def test_muiltiply(self):
-        assert 20 == calculator.subtract(2, 10)
+        assert 20 == calculator.multiply(2, 10)
